@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+events.csv
+digest.md
